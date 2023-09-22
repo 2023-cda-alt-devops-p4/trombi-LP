@@ -1,9 +1,10 @@
 import './App.css';
+import MapView from './Component/MapView';
 
 function App() {
   return (
     <div className="App">
-      test
+      <MapView />
     </div>
   );
 }

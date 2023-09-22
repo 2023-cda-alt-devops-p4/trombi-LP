@@ -17,6 +17,8 @@ export const StudientData = [
     alcool: "spritz",
     entreprise: "neosoft",
     stack: "react / typescript / nodejs / .net",
+    photo:
+      "https://media.licdn.com/dms/image/D4E03AQExjG2BaPALWA/profile-displayphoto-shrink_800_800/0/1675516572257?e=1700697600&v=beta&t=IhTRcfFqsn2q__j8SF8_UaGGYyLMxZUeK6mPB88okao",
   },
   {
     id: 2,
@@ -36,6 +38,8 @@ export const StudientData = [
     alcool: "",
     entreprise: "",
     stack: "reactjs / nodejs",
+    photo:
+      "https://media.licdn.com/dms/image/D4E35AQFE7Z-bzdobew/profile-framedphoto-shrink_800_800/0/1672698193779?e=1695996000&v=beta&t=Pir_Rwd0Q5nJzyPouWHG6vMNRTfrkvBS9K7_BI3Z4BE",
   },
   {
     id: 3,
@@ -55,6 +59,8 @@ export const StudientData = [
     alcool: "coca pur",
     entreprise: "regional express",
     stack: "angular / spring-boot",
+    photo:
+      "https://media.licdn.com/dms/image/D4E03AQESvYIHXHd8sQ/profile-displayphoto-shrink_800_800/0/1683528669553?e=1700697600&v=beta&t=jA4KOB0TSa6pNyEiPJYOctC4X6fFdXfmpkWP_ceIpb8",
   },
   {
     id: 4,
@@ -74,6 +80,8 @@ export const StudientData = [
     alcool: "biere fruit",
     entreprise: "parkking",
     stack: "angular / vuejs / synfony",
+    photo:
+      "https://media.licdn.com/dms/image/C4E03AQEHgl7zMrio8g/profile-displayphoto-shrink_800_800/0/1614677595219?e=1700697600&v=beta&t=mlYJPJvNIC_uxkjyeIWd1YobyvPa1MJ4InScceJ_6uo",
   },
   {
     id: 5,
@@ -93,6 +101,8 @@ export const StudientData = [
     alcool: "eau pur",
     entreprise: "degetel",
     stack: "react / synfony",
+    photo:
+      "https://media.licdn.com/dms/image/D4E35AQGFQZZYCOeSKw/profile-framedphoto-shrink_800_800/0/1680608441498?e=1695996000&v=beta&t=rARGfCz1WtY055JUnFGe8khQByJywizZRgJDoA-Styg",
   },
   {
     id: 6,
@@ -112,6 +122,8 @@ export const StudientData = [
     alcool: "scotish whisky tourbé mais pas trop ",
     entreprise: "recygroup",
     stack: "angular / .net",
+    photo:
+      "https://media.licdn.com/dms/image/D5603AQFTWWLF3oQh0g/profile-displayphoto-shrink_800_800/0/1665496487126?e=1700697600&v=beta&t=mM1OSwpVxUTXQytrszjqMUckKZfW9ZrsRRBYGiD_Doc",
   },
   {
     id: 7,
@@ -132,6 +144,8 @@ export const StudientData = [
     alcool: "spritz / tequilla sunrise / vin blanc",
     entreprise: "courir",
     stack: "react / angular / typescript / spring-boot / nodejs / swift",
+    photo:
+      "https://media.licdn.com/dms/image/C4D03AQGR3N7oPtWBXg/profile-displayphoto-shrink_800_800/0/1612951907708?e=1700697600&v=beta&t=thN0nOuPPeF3P1vM8vaVnpYP9y_C1vzsl6eMLOiK-EU",
   },
   {
     id: 8,
@@ -139,8 +153,6 @@ export const StudientData = [
     prenom: "jonathan",
     ville: "gretz-armainvilliers",
     hobbies: "jeux video / lecture / myrmecologie",
-    lat: 48.73333,
-    long: 2.73333,
     music: "",
     sport: "",
     jv: "civilization / crusader king / STR",
@@ -151,14 +163,14 @@ export const StudientData = [
     alcool: "pastis / vin rouge",
     entreprise: "gestimo",
     stack: "php / laravel / flutter / reactjs / nextjs / nodejs",
+    photo:
+      "https://media.licdn.com/dms/image/D4E03AQGHN9PQU5oL0g/profile-displayphoto-shrink_800_800/0/1678267418185?e=1700697600&v=beta&t=tMt7i7wGJZWiZlijtgOGdTh2r1ybpIMWsAasrPoC8Wc",
   },
   {
     id: 9,
     nom: "foucher",
     prenom: "alexandre",
     ville: "valenciennes",
-    lat: 50.357113,
-    long: 3.518332,
     hobbies: "music / jeux video / manga / anime",
     music: "electro / metal / classique",
     sport: "try hard les apm",
@@ -170,14 +182,14 @@ export const StudientData = [
     alcool: "biere / whisky",
     entreprise: "lyreco",
     stack: "reactjs / java / nodejs / php / vb.net",
+    photo:
+      "https://media.licdn.com/dms/image/C4D03AQEhSrs2F8Kv1w/profile-displayphoto-shrink_800_800/0/1646907985243?e=1700697600&v=beta&t=4J_IcYT2egnYomU84P2XFF2josLGYsh6m8f_lXN1xto",
   },
   {
     id: 10,
     nom: "pierson",
     prenom: "theo",
     ville: "lestrem",
-    lat: 50.616669,
-    long: 2.68333,
     hobbies: "lecture / film / serie / sport de combat",
     music: "rap",
     sport: "sport de combat",
@@ -189,13 +201,13 @@ export const StudientData = [
     alcool: "biere et rhum mais je suis censé arreter waow",
     entreprise: "sister company",
     stack: "react / angular / sring-boot",
+    photo:
+      "https://media.licdn.com/dms/image/D4E35AQE_4D4H8IdwzQ/profile-framedphoto-shrink_800_800/0/1687850989081?e=1695996000&v=beta&t=Qzx0hnJ0L3p9W7EjS7PN1Ey-tbkJ9Gi984f64NeG7nU",
   },
   {
     id: 11,
     nom: "chauvin",
     prenom: "melanie",
-    lat: 50.6424441,
-    long: 3.088507,
     ville: "lille (saint-maurice pelvoisin)",
     hobbies: "rando / manger / champagne",
     music: "",
@@ -208,6 +220,8 @@ export const StudientData = [
     alcool: "veuve cliquot / jamaican mule",
     entreprise: "wiiisdom",
     stack: "vuejs / angular / quarkus",
+    photo:
+      "https://media.licdn.com/dms/image/D4E03AQFYZ33KFZxxNQ/profile-displayphoto-shrink_800_800/0/1682181015546?e=1700697600&v=beta&t=0gPt_An2vNt-gfR5gsdV8MgpYTpa-mChN-LVD_SvrVY",
   },
   {
     id: 12,
@@ -225,13 +239,13 @@ export const StudientData = [
     alcool: "cristaline pur",
     entreprise: "cegid",
     stack: "reactjs / nodejs / .net",
+    photo:
+      "https://media.licdn.com/dms/image/D4E03AQHJpGBpfo6hEQ/profile-displayphoto-shrink_800_800/0/1692090102840?e=1700697600&v=beta&t=RYaJffYPQnqVLXsIaTLiezUhvgEPVUYw8ZJtcjutwk4",
   },
   {
     id: 13,
     nom: "phounphonh",
     prenom: "ludovic",
-    lat: 50.566669,
-    long: 3.05,
     ville: "templemars",
     hobbies: "manger / boire / ballade / moto / musique",
     music: "metal / classique / de tout",
@@ -244,14 +258,14 @@ export const StudientData = [
     alcool: "tout",
     entreprise: "proxiad",
     stack: "reactjs / react native / angular / spring / nodejs",
+    photo:
+      "https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png",
   },
   {
     id: 14,
     nom: "beauvois",
     prenom: "marine",
     ville: "la madeleine",
-    lat: 50.650002,
-    long: 3.06667,
     hobbies: "sport / ecouter poadcast (relation humaine)",
     music: "de tout / commerciale",
     sport: "bodypump / fitness / cardio",
@@ -263,5 +277,7 @@ export const StudientData = [
     alcool: "cocktail",
     entreprise: "darmart",
     stack: "cobol / ruby / rex",
+    photo:
+      "https://media.licdn.com/dms/image/D4E03AQFmbX6lwzdTFg/profile-displayphoto-shrink_800_800/0/1670926042356?e=1700697600&v=beta&t=9mPbuMQ9j9_FiJOyC-xywvxnzax9myyYeNmbiLfRAFE",
   },
 ];

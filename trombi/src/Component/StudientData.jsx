@@ -19,6 +19,8 @@ export const StudientData = [
     stack: "react / typescript / nodejs / .net",
     photo:
       "https://media.licdn.com/dms/image/D4E03AQExjG2BaPALWA/profile-displayphoto-shrink_800_800/0/1675516572257?e=1700697600&v=beta&t=IhTRcfFqsn2q__j8SF8_UaGGYyLMxZUeK6mPB88okao",
+    linkedin: "https://www.linkedin.com/in/diego-garciaco",
+    github: "https://github.com/dgo-gco",
   },
   {
     id: 2,
@@ -40,6 +42,8 @@ export const StudientData = [
     stack: "reactjs / nodejs",
     photo:
       "https://media.licdn.com/dms/image/D4E35AQFE7Z-bzdobew/profile-framedphoto-shrink_800_800/0/1672698193779?e=1695996000&v=beta&t=Pir_Rwd0Q5nJzyPouWHG6vMNRTfrkvBS9K7_BI3Z4BE",
+    linkedin: "https://www.linkedin.com/in/audrey3010/",
+    github: "https://github.com/AudreyAAOO",
   },
   {
     id: 3,
@@ -61,6 +65,8 @@ export const StudientData = [
     stack: "angular / spring",
     photo:
       "https://media.licdn.com/dms/image/D4E03AQESvYIHXHd8sQ/profile-displayphoto-shrink_800_800/0/1683528669553?e=1700697600&v=beta&t=jA4KOB0TSa6pNyEiPJYOctC4X6fFdXfmpkWP_ceIpb8",
+    linkedin: "https://www.linkedin.com/in/yassine-el-azzati-7b5a331b8/",
+    github: "https://github.com/YassineElazzati",
   },
   {
     id: 4,
@@ -82,6 +88,8 @@ export const StudientData = [
     stack: "angular / vuejs / synfony",
     photo:
       "https://media.licdn.com/dms/image/C4E03AQEHgl7zMrio8g/profile-displayphoto-shrink_800_800/0/1614677595219?e=1700697600&v=beta&t=mlYJPJvNIC_uxkjyeIWd1YobyvPa1MJ4InScceJ_6uo",
+    linkedin: "https://www.linkedin.com/in/thomas-mortelette-845318190/",
+    github: "https://github.com/DKHexDev",
   },
   {
     id: 5,
@@ -103,6 +111,8 @@ export const StudientData = [
     stack: "react / synfony",
     photo:
       "https://media.licdn.com/dms/image/D4E35AQGFQZZYCOeSKw/profile-framedphoto-shrink_800_800/0/1680608441498?e=1695996000&v=beta&t=rARGfCz1WtY055JUnFGe8khQByJywizZRgJDoA-Styg",
+    linkedin: "https://www.linkedin.com/in/zakaria-laskari/",
+    github: "https://github.com/zakkios",
   },
   {
     id: 6,
@@ -124,6 +134,8 @@ export const StudientData = [
     stack: "angular / .net",
     photo:
       "https://media.licdn.com/dms/image/D5603AQFTWWLF3oQh0g/profile-displayphoto-shrink_800_800/0/1665496487126?e=1700697600&v=beta&t=mM1OSwpVxUTXQytrszjqMUckKZfW9ZrsRRBYGiD_Doc",
+    linkedin: "https://www.linkedin.com/in/pierre-fraisse-83b4b5253/",
+    github: "https://github.com/PierreFrs",
   },
   {
     id: 7,
@@ -146,6 +158,8 @@ export const StudientData = [
     stack: "react / angular / typescript / spring-boot / nodejs / swift",
     photo:
       "https://media.licdn.com/dms/image/C4D03AQGR3N7oPtWBXg/profile-displayphoto-shrink_800_800/0/1612951907708?e=1700697600&v=beta&t=thN0nOuPPeF3P1vM8vaVnpYP9y_C1vzsl6eMLOiK-EU",
+    linkedin: "https://www.linkedin.com/in/camille-m-lafrance/",
+    github: "https://github.com/CamilleLafrance/",
   },
   {
     id: 8,
@@ -153,7 +167,7 @@ export const StudientData = [
     prenom: "jonathan",
     ville: "gretz-armainvilliers",
     hobbies: "jeux video / lecture / myrmecologie",
-    music: "",
+    music: "metal / funk / soul",
     sport: "",
     jv: "civilization / crusader king / STR",
     serie: "kamelott / weed",
@@ -165,6 +179,8 @@ export const StudientData = [
     stack: "php / laravel / flutter / reactjs / nextjs / nodejs",
     photo:
       "https://media.licdn.com/dms/image/D4E03AQGHN9PQU5oL0g/profile-displayphoto-shrink_800_800/0/1678267418185?e=1700697600&v=beta&t=tMt7i7wGJZWiZlijtgOGdTh2r1ybpIMWsAasrPoC8Wc",
+    linkedin: "https://www.linkedin.com/in/jomoreschi/",
+    github: "https://github.com/Eromnoj",
   },
   {
     id: 9,
@@ -184,6 +200,8 @@ export const StudientData = [
     stack: "reactjs / java / nodejs / php / vb.net",
     photo:
       "https://media.licdn.com/dms/image/C4D03AQEhSrs2F8Kv1w/profile-displayphoto-shrink_800_800/0/1646907985243?e=1700697600&v=beta&t=4J_IcYT2egnYomU84P2XFF2josLGYsh6m8f_lXN1xto",
+    linkedin: "https://www.linkedin.com/in/alexandre-foucher-0050571a4/",
+    github: "https://github.com/AlexTakoDev",
   },
   {
     id: 10,
@@ -203,6 +221,8 @@ export const StudientData = [
     stack: "react / angular / sringgit add . ",
     photo:
       "https://media.licdn.com/dms/image/D4E35AQE_4D4H8IdwzQ/profile-framedphoto-shrink_800_800/0/1687850989081?e=1695996000&v=beta&t=Qzx0hnJ0L3p9W7EjS7PN1Ey-tbkJ9Gi984f64NeG7nU",
+    linkedin: "",
+    github: "https://github.com/TheoPIERSON",
   },
   {
     id: 11,
@@ -210,11 +230,11 @@ export const StudientData = [
     prenom: "melanie",
     ville: "lille (saint-maurice pelvoisin)",
     hobbies: "rando / manger / champagne",
-    music: "",
+    music: "electro / dubstep / musique de bar",
     sport: "taekwondo",
-    jv: "",
-    serie: "",
-    manga: "",
+    jv: "les sims",
+    serie: "youtube oceanne",
+    manga: "la docs sur la tech et de temps en temps des thriller polar",
     plat: "le poulet sous toutes ses formes",
     boisson: "cafe bien noir",
     alcool: "veuve cliquot / jamaican mule",
@@ -222,6 +242,8 @@ export const StudientData = [
     stack: "vuejs / angular / quarkus",
     photo:
       "https://media.licdn.com/dms/image/D4E03AQFYZ33KFZxxNQ/profile-displayphoto-shrink_800_800/0/1682181015546?e=1700697600&v=beta&t=0gPt_An2vNt-gfR5gsdV8MgpYTpa-mChN-LVD_SvrVY",
+    linkedin: "https://www.linkedin.com/in/melanie-cn/",
+    github: "https://github.com/Melcn",
   },
   {
     id: 12,
@@ -241,6 +263,8 @@ export const StudientData = [
     stack: "reactjs / nodejs / .net",
     photo:
       "https://media.licdn.com/dms/image/D4E03AQHJpGBpfo6hEQ/profile-displayphoto-shrink_800_800/0/1692090102840?e=1700697600&v=beta&t=RYaJffYPQnqVLXsIaTLiezUhvgEPVUYw8ZJtcjutwk4",
+    linkedin: "https://www.linkedin.com/in/nassim-d-aaa48a204/",
+    github: "https://github.com/NassJs",
   },
   {
     id: 13,
@@ -260,6 +284,8 @@ export const StudientData = [
     stack: "reactjs / react native / angular / spring / nodejs",
     photo:
       "https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png",
+    linkedin: "https://www.linkedin.com/in/092155113",
+    github: "https://github.com/Ludoph",
   },
   {
     id: 14,
@@ -279,5 +305,7 @@ export const StudientData = [
     stack: "cobol / ruby / rex",
     photo:
       "https://media.licdn.com/dms/image/D4E03AQFmbX6lwzdTFg/profile-displayphoto-shrink_800_800/0/1670926042356?e=1700697600&v=beta&t=9mPbuMQ9j9_FiJOyC-xywvxnzax9myyYeNmbiLfRAFE",
+    linkedin: "https://www.linkedin.com/in/marine-beauvois/",
+    github: "https://github.com/mbeauvois",
   },
 ];

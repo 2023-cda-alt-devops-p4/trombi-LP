@@ -58,7 +58,7 @@ export const StudientData = [
     boisson: "the marocain",
     alcool: "coca pur",
     entreprise: "regional express",
-    stack: "angular / spring-boot",
+    stack: "angular / spring",
     photo:
       "https://media.licdn.com/dms/image/D4E03AQESvYIHXHd8sQ/profile-displayphoto-shrink_800_800/0/1683528669553?e=1700697600&v=beta&t=jA4KOB0TSa6pNyEiPJYOctC4X6fFdXfmpkWP_ceIpb8",
   },
@@ -200,7 +200,7 @@ export const StudientData = [
     boisson: "cafe",
     alcool: "biere et rhum mais je suis censé arreter waow",
     entreprise: "sister company",
-    stack: "react / angular / sring-boot",
+    stack: "react / angular / sringgit add . ",
     photo:
       "https://media.licdn.com/dms/image/D4E35AQE_4D4H8IdwzQ/profile-framedphoto-shrink_800_800/0/1687850989081?e=1695996000&v=beta&t=Qzx0hnJ0L3p9W7EjS7PN1Ey-tbkJ9Gi984f64NeG7nU",
   },

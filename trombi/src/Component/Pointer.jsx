@@ -1,8 +1,3 @@
-
 export const Pointer = () => {
-    return (
-        <div>
-            pointer
-        </div>
-    )
-}
+  return <div>pointer</div>;
+};

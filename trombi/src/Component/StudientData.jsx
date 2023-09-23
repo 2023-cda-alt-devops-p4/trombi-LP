@@ -54,7 +54,7 @@ export const StudientData = [
     sport: "sports de combat",
     jv: "valorant",
     serie: "",
-    manga: "",
+    manga: "Hunter x Hunter",
     platlong: "Tajine olive",
     boisson: "the marocain",
     alcool: "coca pur",

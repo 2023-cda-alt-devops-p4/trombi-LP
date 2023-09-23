@@ -55,7 +55,7 @@ export const StudientData = [
     jv: "valorant",
     serie: "",
     manga: "",
-    platlong: "",
+    platlong: "Tajine olive",
     boisson: "the marocain",
     alcool: "coca pur",
     entreprise: "regional express",

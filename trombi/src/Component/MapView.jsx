@@ -31,7 +31,20 @@ const MapView = () => {
               iconAnchor: [50, 50],
             })}
           >
-            <Popup></Popup>
+            <Popup>
+              nom : {studient.nom}
+              prenom : {studient.prenom}
+              ville : {studient.ville}
+              hobbies : {studient.hobbies}
+              serie : {studient.serie}
+              manga : {studient.manga}
+              plat favoris : {studient.platlong}
+              boisson : {studient.boisson}
+              alcool : {studient.alcool}
+              entreprise : {studient.entreprise}
+              stack : {studient.stack}
+              github : {studient.github}
+            </Popup>
           </Marker>
         ))}
       </MapContainer>

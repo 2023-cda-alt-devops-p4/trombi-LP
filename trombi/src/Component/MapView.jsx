@@ -29,10 +29,6 @@ const MapView = () => {
               iconUrl: studient?.photo,
               iconSize: [50, 50],
               iconAnchor: [50, 50],
-              popupAnchor: null,
-              shadowUrl: null,
-              shadowSize: null,
-              shadowAnchor: null,
             })}
           >
             <Popup></Popup>

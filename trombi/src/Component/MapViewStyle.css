@@ -1,0 +1,37 @@
+.icon-user{
+    border-radius: 100%;
+}
+.leaflet-popup-content-wrapper{
+    border-radius: 0;
+    background-color: rgb(255, 255, 255);
+}
+.container_pop_up{
+    text-transform: capitalize;
+}
+.id{
+    display: flex;
+    justify-content: center;
+}
+.id img{
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px;
+}
+.id .user h2{
+    font-weight: 700;
+}
+.id .user .link-user{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0;
+}
+.id .user .link-user a{
+    margin-right: 10px ;
+}
+.container_pop_up hr{
+    width: 100%;
+    color: rgba(0, 0, 0, 0.462);
+    margin: 20px 0;
+}
+
+

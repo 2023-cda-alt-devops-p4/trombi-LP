@@ -11,7 +11,10 @@
 .container .leaflet-container {
   height: 100vh;
   width: 100%;
+  padding: 15px;
 }
+
+.container_pop_up {}
 
 .App-logo {
   height: 40vmin;

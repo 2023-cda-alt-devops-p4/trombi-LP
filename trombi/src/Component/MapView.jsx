@@ -1,5 +1,15 @@
 import { MapContainer, TileLayer, Popup, Marker } from "react-leaflet";
 import { StudientData } from "./StudientData";
+import { MdFavorite, MdLocalDrink } from "react-icons/md";
+import { GiDrinking } from "react-icons/gi";
+import { BsGithub, BsFillPeopleFill } from "react-icons/bs";
+import { GiPositionMarker } from "react-icons/gi";
+import { IoFastFood } from "react-icons/io5";
+import { FiHome } from "react-icons/fi";
+import { FaStackOverflow } from "react-icons/fa";
+import { SiMarvelapp } from "react-icons/si";
+import { RiNetflixFill } from "react-icons/ri";
+
 import L from "leaflet";
 
 const MapView = () => {
@@ -31,11 +41,25 @@ const MapView = () => {
               iconAnchor: [50, 50],
             })}
           >
-            <Popup></Popup>
+            <Popup>
+              <div className="container_pop_up">
+                <a href={studient.github}><BsGithub /> : {studient.github} <br />  </a>
+                <BsFillPeopleFill /> : {studient.nom} {studient.prenom} <br />
+                <GiPositionMarker /> : {studient.ville} <br />
+                <MdFavorite /> : {studient.hobbies} <br />
+                <RiNetflixFill /> : {studient.serie} <br />
+                <SiMarvelapp /> : {studient.manga} <br />
+                <IoFastFood /> : {studient.platlong} <br />
+                <MdLocalDrink /> : {studient.boisson} <br />
+                <GiDrinking /> : {studient.alcool} <br />
+                <FiHome /> : {studient.entreprise} <br />
+                <FaStackOverflow /> : {studient.stack} <br />
+              </div>
+            </Popup>
           </Marker>
         ))}
       </MapContainer>
-    </div>
+    </div >
   );
 };
 

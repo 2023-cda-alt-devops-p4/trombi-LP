@@ -17,7 +17,7 @@ const MapView = () => {
   const pointers = StudientData.map((studient) => studient?.latlong).filter(
     (latLng) => latLng !== undefined
   );
-  console.log("pointers", pointers)
+  console.log("pointers", pointers);
   const limit = pointers.length > 0 ? L.latLngBounds(pointers) : null;
 
   const ZOOM_LEVEL = 12;

@@ -17,7 +17,9 @@ function App() {
         markers={StudientData}
         scrollWheelZoom={true}
       />
-      <Footer />
+      <>
+        <Footer />
+      </>
     </div>
   );
 }

@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.container {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+}
+
+.container .leaflet-container {
+  height: 50vh;
+  width: 50%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,13 +39,4 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

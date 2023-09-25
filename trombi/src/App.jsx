@@ -1,5 +1,6 @@
 import "./App.css";
 import MapView from "./Component/MapView";
+import Footer from "./Component/Footer";
 import { StudientData } from "./Component/StudientData";
 import { Header } from "./Component/Header";
 
@@ -16,6 +17,7 @@ function App() {
         markers={StudientData}
         scrollWheelZoom={true}
       />
+      <Footer />
     </div>
   );
 }

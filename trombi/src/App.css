@@ -2,13 +2,7 @@
   text-align: center;
 }
 
-.container {
-  width: 100%;
-  height: 50vh;
-  display: flex;
-  justify-content: center;
-  margin-top: 15%;
-}
+
 
 .container .leaflet-container {
   height: 100vh;

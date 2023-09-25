@@ -1,5 +1,6 @@
 .icon-user{
     border-radius: 100%;
+    object-fit: cover;
 }
 .leaflet-popup-content-wrapper{
     border-radius: 0;
@@ -16,6 +17,7 @@
     width: 100px;
     border-radius: 50%;
     margin: 20px;
+    object-fit: cover;
 }
 .id .user h2{
     font-weight: 700;

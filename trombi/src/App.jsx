@@ -1,10 +1,14 @@
 import "./App.css";
 import MapView from "./Component/MapView";
 import { StudientData } from "./Component/StudientData";
+import { Header } from "./Component/Header";
 
 function App() {
   return (
     <div className="App">
+      <>
+        <Header />
+      </>
       <MapView
         withHeight="100vh"
         zoom={8.5}

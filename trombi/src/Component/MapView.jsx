@@ -9,7 +9,7 @@ import { FiHome } from "react-icons/fi";
 import { FaStackOverflow } from "react-icons/fa";
 import { SiMarvelapp } from "react-icons/si";
 import { RiNetflixFill } from "react-icons/ri";
-
+import 'animate.css';
 import "./MapViewStyle.css";
 import L from "leaflet";
 
@@ -17,13 +17,12 @@ const MapView = () => {
   const pointers = StudientData.map((studient) => studient?.latlong).filter(
     (latLng) => latLng !== undefined
   );
-  console.log("pointers", pointers);
   const limit = pointers.length > 0 ? L.latLngBounds(pointers) : null;
 
   const ZOOM_LEVEL = 12;
 
   return (
-    <div className="container">
+    <div className="container animate__animated animate__bounceInDown">
       <MapContainer
         center={limit ? limit.getCenter() : [51.505, -0.09]}
         zoom={limit ? null : ZOOM_LEVEL}
@@ -56,10 +55,10 @@ const MapView = () => {
                     <GiPositionMarker className="city" /> : {studient.ville}{" "}
                     <br />
                     <div className="link-user">
-                      <a href={studient.github} target="_blank">
+                      <a href={studient.github} target="_blank" rel="noreferrer">
                         <BsGithub /> <br />
                       </a>
-                      <a href={studient.linkedin} target="_blank">
+                      <a href={studient.linkedin} target="_blank" rel="noreferrer">
                         <BsLinkedin /> <br />
                       </a>
                     </div>
